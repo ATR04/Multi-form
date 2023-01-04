@@ -1,0 +1,123 @@
+body {
+  background-color: #EAFDFC;
+}
+.container-fluid{
+  background-color: white;
+  width:70%;
+  height: 40rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+.bimg{
+  margin-top: 2.25rem;
+}
+.nav{
+  position:relative;
+  bottom:400px;
+
+}
+.nav-link{
+  color: #E5E5CB;
+  display: inline-block;
+}
+.t-1{
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+.t-2{
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+
+.button{
+  border-radius: 10rem;
+}
+
+
+/*form 1...................*/
+
+.tab-1{
+  position: relative;
+  bottom: 40rem;
+  left :25rem;
+  width: 50%;
+}
+.name{
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+.email{
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+.box{
+  border-radius: 10px;
+  width: 80%;
+  height: 2.25rem;
+}
+.phone{
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+.heading-1{
+  margin-bottom: 3rem;
+  font-family: 'Fredoka One', cursive;
+}
+.ftext{
+
+  font-family: 'Righteous', cursive;
+}
+.tab-1{
+  visibility: visible;
+}
+.heading-1{
+  padding-left: 60px;
+}
+.button-1{
+  margin-left: 18rem;
+  border-radius: 2rem;
+  font-weight: bolder;
+}
+
+/*form 1...................*/
+
+.shadow{
+  border: 1px solid;
+  box-shadow: 5px 10px 18px #888888;
+}
+
+.tab-2{
+  position:  relative;
+  bottom: 68rem;
+  left:20rem;
+  width: 60%;
+  visibility: hidden;
+}
+.heading-2{
+  text-align: center;
+}
+.fa-solid{
+  text-align: center;
+  margin-top: 2rem;
+}
+.card-body{
+  text-align: center;
+}
+.group{
+  display: flex;
+  gap: 2rem;
+  margin-top: 4rem;
+}
+.card{
+ border-radius: 20px;
+}
+.btn{
+  border-radius: 0.5rem;
+}
+.button-2{
+  position: relative;
+  top: 70px;
+  left: 20px;
+  border-radius: 10px;
+}
